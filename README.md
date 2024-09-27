@@ -1,10 +1,10 @@
 # Pelada App
 
-![GitHub repo size](https://img.shields.io/github/repo-size/LucasCAlecrim/Pelada-app-final?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/LucasCAlecrim/Pelada-app-final?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/LucasCAlecrim/Pelada-app-final?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LucasCAlecrim/Pelada-app-final?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/LucasCAlecrim/Pelada-app-final?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasCA-Git/Pelada-App?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/LucasCA-Git/Pelada-App?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/LucasCA-Git/Pelada-App?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LucasCA-Git/Pelada-App?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/LucasCA-Git/Pelada-App?style=for-the-badge)
 
 
 **Pelada App** é uma aplicação desenvolvida para gerenciar jogadores de futebol. Com funcionalidades completas de CRUD, geração de relatórios em PDF, e integração com Swagger para documentação interativa da API.
